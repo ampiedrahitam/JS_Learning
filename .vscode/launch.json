@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open hello_world.html",
-            "file": "c:\\Users\\Ana_Piedrahita\\Documents\\JS_Learning\\hello_world.html"
+            "name": "Testing Launcher",
+            "file": "c:\\Users\\Ana_Piedrahita\\Documents\\JS_Learning\\fundamentals_1\\hello_world.html"
         }
     ]
 }
