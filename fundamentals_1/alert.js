@@ -1,10 +1,9 @@
-let name = 'John';
-let admin = name;
+let currentVisitorName = 'John';
+let admin = currentVisitorName;
 let planetName = 'Earth';
-let currenVisitorName
 
 
 alert(admin);
 alert( `hello ${1}` ); // hello 1
 alert( `hello ${"name"}` ); // hello name
-alert( `hello ${name}` ); // hello John
+alert( `hello ${currentVisitorName}` ); // hello John
