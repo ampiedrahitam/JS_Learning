@@ -5,5 +5,5 @@ alert(currentUserConfirmation);
 if (currentUserConfirmation==false) {
     alert('Thank you for your honesty');
 } else {
-    alert(`Thank you for confirming, ${currentUserName}`);
-}
+    alert(`Thank you for confirming, ${currentUserName}`)
+};
