@@ -3,7 +3,7 @@ let currentUserConfirmation = confirm(`Are you sure that your name is ${currentU
 
 alert(currentUserConfirmation);
 if (currentUserConfirmation==false) {
-    alert('Thank you for your honesty');
+    alert('Thank you for your honesty')
 } else {
     alert(`Thank you for confirming, ${currentUserName}`)
 };

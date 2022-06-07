@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Testing Launcher",
-            "file": "c:\\Users\\Ana_Piedrahita\\Documents\\JS_Learning\\fundamentals_3\\exercises.html"
+            "file": "c:\\Users\\Ana_Piedrahita\\Documents\\JS_Learning\\conditional_branching.html"
         }
     ]
 }
