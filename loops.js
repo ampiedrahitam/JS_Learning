@@ -30,30 +30,31 @@ i = 3 ; 3 < 5 ; i = 4 4
 i = 4 ; 4 < 5 ; i = 5 5
 i = 5 ; 5 < 5 incorrect the body is executed before the increment*/
 
-/*for (let i = 2; i <= 10; i++) {
+for (let i = 2; i <= 10; i++) {
 
     if (i % 2 != 0) continue;
   
     alert(i);
-  }*/
+};
 
-/*for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 3; i++) {
     alert( `number ${i}!` );
-}*/
+};
 
-/*let i = 0
+let i = 0
 
 while (i < 3) {
     alert( `number ${i++}!` );
-}*/
-/*let flag;
+};
+
+let flag;
 
 while (flag == undefined){
     let loopNumber = prompt('Please type in a number greater than 100','');
     if (loopNumber > 100 || loopNumber == null || loopNumber == ''){
         flag = 1
     };
-}*/
+};
 
 let prime = 2;
 let inputNumber = prompt('Please type in a number greater than 2', 2);
