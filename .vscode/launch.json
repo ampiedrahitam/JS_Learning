@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Testing Launcher",
-            "file": "c:\\Users\\Ana_Piedrahita\\Documents\\JS_Learning\\switch.html"
+            "file": "c:\\Users\\Ana_Piedrahita\\Documents\\JS_Learning\\functions.html"
         }
     ]
 }
