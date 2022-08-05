@@ -37,7 +37,7 @@ function even_or_odd(number) {
   }
 }
 
-even_or_odd(number);*/
+even_or_odd(number);
 
 let words = ["hello", "world", "this", "is", "great"];
 
@@ -46,4 +46,10 @@ function smash(words) {
   alert (sentence)
 }
 
-smash(words);
+smash(words);*/
+
+let ask = prompt("Do you agree?")?
+  () => alert("Hello!"):
+  () => alert("Greetings!");
+
+ask();
