@@ -46,10 +46,10 @@ function smash(words) {
   alert (sentence)
 }
 
-smash(words);*/
+smash(words);
 
 let ask = prompt("Do you agree?")?
   () => alert("Hello!"):
   () => alert("Greetings!");
 
-ask();
+ask();*/
